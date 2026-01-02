@@ -1,4 +1,4 @@
-# Communication Tracker
+# Communication Tracker  
 
 A modern web application for tracking and managing company communications.
 
@@ -137,3 +137,5 @@ src/
 ## License
 
 MIT License - see the [LICENSE](LICENSE) file for details
+
+<!-- PR #1: Added note for Pull Request testing -->
