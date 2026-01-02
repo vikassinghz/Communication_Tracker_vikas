@@ -142,3 +142,8 @@ MIT License - see the [LICENSE](LICENSE) file for details
 
 
 <!-- Badge test PR #2 -->
+
+
+## Testing for YOLO Badge
+
+This branch tests PR merging without reviews.
