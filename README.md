@@ -139,3 +139,6 @@ src/
 MIT License - see the [LICENSE](LICENSE) file for details
 
 <!-- PR #1: Added note for Pull Request testing -->
+
+
+<!-- Badge test PR #2 -->
